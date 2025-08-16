@@ -43,3 +43,4 @@ View example destinations and fleet
 Switch between English and Ukrainian
 Test the mobile navigation menu
 
+You can look a design of web-site and some features using the movie. Open the folder that name is "movie" and download a video. 
